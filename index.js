@@ -3,13 +3,13 @@ function happyHolidays(){
 }
 
 
-function happyHolidaysTo(name==="you") {
+function happyHolidaysTo(name) {
   return "Happy holidays, ${name}!"
 }
+happyHolidayTo (you")
 
-
-function happyHolidayTo (holiday==="Indepe", name) {
-  return "Happy ${holiday}, ${you}"
+function happyHolidayTo (holiday) {
+  return "Happy ${holiday}, ${name}"
 }
 
 
